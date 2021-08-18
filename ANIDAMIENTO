@@ -1,0 +1,23 @@
+program anidamiento_instrucciones_en_un_if
+
+var
+i = 0;
+
+if i > 0 then
+begin
+i:i+1;
+writeln('es positivo');
+end
+
+
+else
+begin
+i:i*4
+writeln('es negativo')
+end.
+
+
+
+
+
+
